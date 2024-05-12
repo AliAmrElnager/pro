@@ -1,0 +1,7 @@
+E:\New Folder (2)\Hi\obj\Debug\Hi.csproj.AssemblyReference.cache
+E:\New Folder (2)\Hi\obj\Debug\Hi.csproj.CoreCompileInputs.cache
+E:\New Folder (2)\Hi\bin\Debug\Hi.exe.config
+E:\New Folder (2)\Hi\bin\Debug\Hi.exe
+E:\New Folder (2)\Hi\bin\Debug\Hi.pdb
+E:\New Folder (2)\Hi\obj\Debug\Hi.exe
+E:\New Folder (2)\Hi\obj\Debug\Hi.pdb
